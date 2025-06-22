@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SentientSavior
-- 👀 I’m interested in C++ Programming
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on AI Project
+- 👀 I’m interested in Threat Intelligent
+- 🌱 I’m currently learning on Cybersecurity
+- 💞️ I’m looking to collaborate more on Penetration Testing
 - 📫 How to reach me : m.fadly020@gmail.com
 
 <!---
